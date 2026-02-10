@@ -12,8 +12,9 @@ I’m a Full Stack Developer with a strong interest in building scalable, user-f
 ![](https://nirzak-streak-stats.vercel.app/?user=anashmalik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anashmalik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anashmalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anashmalik&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
