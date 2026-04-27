@@ -27,3 +27,51 @@ I’m a Full Stack Developer with a strong interest in building scalable, user-f
 [![](https://visitcount.itsvg.in/api?id=anashmalik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+## 🧠 LeetCode Profile
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MrAMalik?theme=dark&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=MrAMalik&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=MrAMalik&theme=dark&border=border&animated=true" />
+</p>
+
+---
+
+### 🏆 Problem Solving Breakdown
+
+![Easy](https://img.shields.io/badge/Easy-Solved-green)
+![Medium](https://img.shields.io/badge/Medium-Solved-orange)
+![Hard](https://img.shields.io/badge/Hard-Solved-red)
+
+---
+
+### 💻 Languages Used on LeetCode
+
+![JavaScript](https://img.shields.io/badge/JavaScript-LeetCode-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-LeetCode-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-LeetCode-blue?logo=c%2B%2B)
+
+---
+
+### 📊 Additional Info
+
+- 🔥 Daily Streak: Visible in heatmap  
+- 📈 Ranking: Included in stats card  
+- 🧠 Contest Participation: Reflected in badges  
+- ✅ Acceptance Rate: Included in stats  
+
+---
+
+### 🔗 My LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/MrAMalik/)
